@@ -23,7 +23,8 @@ Offers safe AI chat, mental health tests (SAN, GAD, PHQ, PSS), multilingual inte
 
 ## Contribute to the System Prompt
 
-The file [system-prompt.json]([system-prompt.json](https://github.com/kaskolive/moodmodify/blob/main/%20system-prompt.json)) contains the main AI system prompt for **MoodModify**.
+The file [system-prompt.json](https://github.com/kaskolive/moodmodify/blob/main/system-prompt.json) contains the main AI system prompt for **MoodModify**.
+
 
 Our goal is to make MoodModify a safe and ethical psychological support app that **avoids falling under the regulation of the Illinois "Wellness and Oversight for Psychological Resources Act" (HB1806)** while providing meaningful emotional assistance.
 
