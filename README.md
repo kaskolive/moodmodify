@@ -1,6 +1,6 @@
 # MoodModify
 
-![MoodModify Banner](https://your-image-link/banner.png)
+![MoodModify Banner]([https://your-image-link/banner.png](https://raw.githubusercontent.com/kaskolive/moodmodify/main/ChatGPT%20Image%209%20%D0%B0%D0%B2%D0%B3.%202025%20%D0%B3.%2C%2016_58_55.png))
 
 [![Download](https://img.shields.io/badge/Download-APK-blue)](https://your-download-link)
 [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://your-demo-link)
