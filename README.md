@@ -21,9 +21,17 @@ Offers safe AI chat, mental health tests (SAN, GAD, PHQ, PSS), multilingual inte
 - 🌍 Multilingual support  
 - 🛡 Secure, password-protected data  
 
-## 📥 Installation
-```bash
-git clone https://github.com/YourUsername/moodmodify.git
-cd moodmodify
-npm install
-npm start
+## Contribute to the System Prompt
+
+The file [system-prompt.json](system-prompt.json) contains the main AI system prompt for **MoodModify**.
+
+Our goal is to make MoodModify a safe and ethical psychological support app that **avoids falling under the regulation of the Illinois "Wellness and Oversight for Psychological Resources Act" (HB1806)** while providing meaningful emotional assistance.
+
+We welcome community input to refine this prompt, ensuring:
+- Ethical and non-harmful AI behavior
+- Clear boundaries between AI support and licensed psychotherapy
+- Compliance with applicable laws and privacy requirements
+- Cultural and linguistic inclusivity
+
+💡 You can suggest improvements to the system prompt by opening a **Pull Request**.
+
