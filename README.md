@@ -2,9 +2,9 @@
 
 ![MoodModify Banner](https://raw.githubusercontent.com/kaskolive/moodmodify/main/ChatGPT%20Image%209%20%D0%B0%D0%B2%D0%B3.%202025%20%D0%B3.%2C%2016_58_55.png)
 
-[![Download](https://img.shields.io/badge/Download-APK-blue)](https://your-download-link)
-[![Demo](https://img.shields.io/badge/Live-Demo-green)](https://your-demo-link)
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/moodmodify?style=social)](https://github.com/YourUsername/moodmodify/stargazers)
+[![Google Play](https://img.shields.io/badge/Google_Play-Open_Testing-brightgreen?logo=google-play&logoColor=white)](https://play.google.com/apps/testing/com.kaskolive.moodmodify)
+[![GitHub stars](https://img.shields.io/github/stars/kaskolive/moodmodify?style=social)](https://github.com/kaskolive/moodmodify/stargazers)
+
 
 ---
 
